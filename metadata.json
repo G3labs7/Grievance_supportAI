@@ -1,0 +1,6 @@
+{
+  "name": "Jan Awaaz AI",
+  "description": "AI-powered civic grievance management and weekly digest platform for Members of Parliament and citizens.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
