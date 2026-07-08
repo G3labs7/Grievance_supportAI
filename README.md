@@ -1,20 +1,5 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
-
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/cae22593-752d-4f08-bae8-2f61de2dd97c
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Jan Awaaz AI — "Apni Baat, Apne Neta Tak"
+An AI-powered constituency grievance intelligence platform that classifies 
+citizen complaints in real-time and auto-generates weekly MP staff briefing 
+reports using Google Gemini API. Built for the Madurai for Nation National 
+Hackathon 2026 by GDG Madurai x Google Cloud.
